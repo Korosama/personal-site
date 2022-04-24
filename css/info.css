@@ -1,0 +1,28 @@
+a {
+ text-decoration: none;
+ color: white;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+  color: #e292a5;
+  font-family: Source Code Pro;
+}
+
+
+#toolbar {
+  text-align: center;
+}
+
+footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #000000;
+  color: #e292a5;
+  text-align: center;
+  font-size: 8px;
+  font-family: sans-serif;
+}
