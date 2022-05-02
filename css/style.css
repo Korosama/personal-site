@@ -3,12 +3,30 @@ a {
  color: white;
 }
 
+ul {
+text-align: left;
+}
+
+head {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: #03051a;
+  color: white;
+  text-align: center;
+  padding-bottom: 30px;
+  
+}
 
 body {
 	background-color: #000000;
 	font-family: Source Code Pro;
 	color: #e292a5;
   text-align: center;
+  line-height: normal;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 footer {
@@ -29,34 +47,5 @@ footer {
  right: 0;
  width: auto; 
  height: 420px;
-}
-
-head {
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-  background-color: #03051a;
-  color: white;
-  text-align: center;
-  padding-bottom: 30px;
-  
-}
-
-.title {
-  text-align: center;
-  color: #e292a5;
-}
-
-#toolbar {
-  text-align: center;
-}
-
-#hometext {
-  margin-top: 50px;
-  margin-bottom: 50px;
-  margin-left: 27%;
-  margin-right: 20%;
-  text-align: left;
 }
 
