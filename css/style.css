@@ -3,9 +3,15 @@ a {
  color: white;
 }
 
+table {
+  line-height: 80%;
+  color: white;
+}
+
 ul {
 text-align: left;
 }
+
 p {
   text-align: left;
 }
@@ -48,15 +54,20 @@ footer {
  right: 0;
  width: auto; 
  height: 420px;
+ color: white;
+}
+
+#linkswrappper {
+text-align: center;
 }
 
 #links {
-  text-align: center;
+  text-align: left;
   font-size: 26px;
-  margin-top: 10%;
-  margin-bottom: 40%;
   line-height: 55px;
-  
+  margin-top: 70px;
+  margin-bottom: 70px;
+  display: inline-block;
 }
 
 #toolbar {
