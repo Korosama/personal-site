@@ -13,7 +13,7 @@ text-align: left;
 }
 
 p {
-  text-align: left;
+  text-align: justify;
 }
 head {
   position: fixed;
@@ -31,7 +31,7 @@ body {
 	font-family: Source Code Pro;
 	color: #e292a5;
   text-align: center;
-  line-height: normal;
+  line-height: 1.5;
   margin-left: 30%;
   margin-right: 30%;
 }
@@ -57,20 +57,21 @@ footer {
  color: white;
 }
 
-#linkswrappper {
-text-align: center;
-}
-
 #links {
   text-align: left;
-  font-size: 26px;
-  line-height: 55px;
+  font-size: 23px;
+  line-height: 65px;
   margin-top: 70px;
   margin-bottom: 70px;
   display: inline-block;
 }
 
+#links a {
+  color: #e292a5;
+}
+
 #toolbar {
   font-size: 20px;
 }
+
 
